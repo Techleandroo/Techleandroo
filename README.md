@@ -7,10 +7,10 @@ Sou um futuro técnico em TEI, em processo de desenvolvimento e aperfeiçoamento
 
 ◼Gestão e instalação de sistemasﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ◼Banco de dados e algoritmos
 
-◼Administração de servidoresﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ◼Desenvolvimento de software
+◼Administração de servidoresﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ  ◼Desenvolvimento web
 
 
-◼Desenvolvimento de softwareﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ◼Desenvolvimento web
+◼Desenvolvimento de softwareﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ
 
 
 
