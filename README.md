@@ -5,7 +5,7 @@ Sou um futuro técnico em TEI, em processo de desenvolvimento e aperfeiçoamento
 
 ◼Infraestrutura de redes e computadoresﾠﾠﾠﾠﾠﾠﾠﾠ ◼Desenvolvimento de soluções computacionais
 
-◼Gestão e instalação de sistemasﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ◼Banco de dados e algoritmos
+◼Gestão e instalação de sistemasﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ◼Banco de dados e algoritmos
 
 ◼Administração de servidoresﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ  ﾠﾠ◼Desenvolvimento web
 
