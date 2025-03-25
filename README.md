@@ -3,16 +3,19 @@ Olá! Eu sou o Leandro Santos 👨‍💻
 Sou um futuro técnico em TEI, em processo de desenvolvimento e aperfeiçoamento de habilidades na área de tecnologia. Minhas formações incluem:
 📚🛠💻
 
-◼Infraestrutura de redes e computadoresﾠﾠﾠﾠﾠﾠﾠﾠ ◼Desenvolvimento de soluções computacionais
+◼Infraestrutura de redes e computadoresﾠﾠﾠﾠﾠﾠﾠﾠ 
 
-◼Gestão e instalação de sistemasﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ◼Banco de dados e algoritmos
+◼Gestão e instalação de sistemasﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ
 
-◼Administração de servidoresﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ  ﾠﾠ◼Desenvolvimento web
-
+◼Administração de servidoresﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ  
 
 ◼Desenvolvimento de softwareﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ
 
+◼Desenvolvimento de soluções computacionais
 
+◼Desenvolvimento web
+
+◼Banco de dados e algoritmos
 
 Estou sempre em busca de aprimoramento e pronto para contribuir com soluções inovadoras no setor de tecnologia.
 ㅤㅤㅤㅤㅤ 
