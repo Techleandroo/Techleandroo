@@ -1,31 +1,17 @@
 Olá! Eu sou o Leandro Santos 👨‍💻
 
-Sou um futuro técnico em TEI, em processo de desenvolvimento e aperfeiçoamento de habilidades na área de tecnologia. Minhas formações incluem:
-📚🛠💻
 
-◼Infraestrutura de redes e computadoresﾠﾠﾠﾠﾠﾠﾠﾠ 
 
-◼Gestão e instalação de sistemasﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ
-
-◼Administração de servidoresﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ  
-
-◼Desenvolvimento de softwareﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ
-
-◼Desenvolvimento de soluções computacionais
-
-◼Desenvolvimento web
-
-◼Banco de dados e algoritmos
-
-Estou sempre em busca de aprimoramento e pronto para contribuir com soluções inovadoras no setor de tecnologia.
-ㅤㅤㅤㅤㅤ 
-
-ㅤㅤㅤㅤㅤ 
-ㅤㅤㅤㅤㅤ 
-
-<a href="https://www.instagram.com/leandr00ks/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "leandrosantosbispo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leandro-santos-5ab249336/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+Sou estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento de software e construção de soluções através da tecnologia.
 
 
 
+Tenho interesse em programação, lógica e desenvolvimento web, buscando constantemente evoluir minhas habilidades e adquirir experiência prática na área.
+
+
+
+Atualmente, estou em processo de aprendizado contínuo, desenvolvendo projetos e aprimorando conhecimentos em tecnologia.
+
+
+
+Estou aberto a oportunidades para crescer profissionalmente e contribuir com soluções eficientes e inovadoras.
